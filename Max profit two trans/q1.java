@@ -47,6 +47,8 @@ class Profit {
 		return result;
 	}
 
+//code
+
 	// Driver Code
 	public static void main(String args[])
 	{
